@@ -1,4 +1,4 @@
-name: Backend Chat CI/CD ${{ secrets.DOCKER_USER  }}
+name: Backend Chat CI/CD
 
 on:
   push:
